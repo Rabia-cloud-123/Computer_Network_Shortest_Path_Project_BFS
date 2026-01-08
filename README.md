@@ -140,5 +140,5 @@ You canScroll it. Messages are color-coded and stylized for clarity.
 
 ---
 
-## Academic assignment made by Dua Eman, Rabia ejaz, Anila khan
+## Academic assignment made by Rabia Ejaz
 
